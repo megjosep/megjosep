@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @megjosep
+## 👋🏻 Hi, I’m @megjosep
 - 👀 I’m a marketer & data analyst
 - 👩🏻‍🎓 I’m currently at USC studying Communication Data Science
 - 🤠 I’m looking to collaborate on machine learning & analytics projects
